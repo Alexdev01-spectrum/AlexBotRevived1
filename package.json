@@ -65,7 +65,6 @@
     "pastebin-api": "^4.0.1",
     "pidusage": "^3.0.2",
     "pretty-ms": "^7.0.1",
-    "puppeteer": "^19.11.1",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "semver": "^7.6.0",
